@@ -1,0 +1,1 @@
+Envia ativos individuais para múltiplos #flexuc/entidade/contato simultâneamente

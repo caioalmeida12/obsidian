@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "a96cef45a181e0ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "15bde37248e0e65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "257bf09b1850cfaa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5dc646d3b8a6b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7627d36d2d397129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc5dba02be3afe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8ffe5897d7443f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tcc/prompt/tatica",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6319072fb7935a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab3503db48f30251",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6608150641ad2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69ece561238cdad6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5246c39996c0ccea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5d46864dad4a3ecf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c18945e4802287a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "257bf09b1850cfaa",
+  "lastOpenFiles": [
+    "Reinforcement Learning from Human Feedback.md",
+    "Optimização de PROMPTs.md",
+    "Delimitadores de estrutura.md",
+    "Entradas e saídas estruturadas.md",
+    "Decomposição da tarefa para operações complexas.md",
+    "Introdução.md",
+    "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT.md",
+    "Prompting Guide.md",
+    "Language Models are Few-Shot Learners.md",
+    "Prompt Engineering Best Practices.md",
+    "Referências bibliográficas.md",
+    "Prompt Engineering a Prompt Engineer.md",
+    "Talking about Large Language Models.md",
+    "().md",
+    "Estratégias e técnicas avançadas de prompting.md",
+    "Self-Consistency.md",
+    "Chain-of-Thought Prompting.md",
+    "Few-Shot Prompting.md",
+    "Instruction Tuning.md",
+    "Zero-Shot Prompting.md",
+    "FilterClientBroadcastList.md",
+    "Untitled.canvas",
+    "Prompting.md",
+    "Iniciar múltiplas conversas ativas pelo monitoramento.md",
+    "Untitled 1.canvas",
+    "Prompting Guide - Optimizing prompts.md",
+    "Especificidade e clareza.md",
+    "useAccounts.md"
+  ]
+}

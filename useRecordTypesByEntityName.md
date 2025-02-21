@@ -1,0 +1,1 @@
+um #flexuc/hook que busca os #flexuc/entidade/tipo_de_registro baseado no tipo de entidade

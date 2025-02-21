@@ -1,0 +1,1 @@
+Um #flexuc/hook/useAccounts que busca todas as #flexuc/entidade/conta do backend, podendo ser ordenadas por qualquer coluna do banco de dados, de maneira crescente e decrescente. 
