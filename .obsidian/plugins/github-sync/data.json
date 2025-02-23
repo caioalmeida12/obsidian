@@ -1,6 +1,6 @@
 {
   "remoteURL": "https://github.com/caioalmeida12/obsidian.git",
   "gitLocation": "",
-  "syncinterval": 1,
+  "syncinterval": 0,
   "isSyncOnLoad": true
 }
